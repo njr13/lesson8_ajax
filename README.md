@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Nickolas Richard
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I was asked to create an application that displays movie information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://njr13.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about AJAX (Asynchronous JavaScript and XML) and it uses.
+2. I learned about JSON (JAvaScript Object Notation) and its uses.
+3. I learned what an HTTP request is and how to interpret a HTTP response.
